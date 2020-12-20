@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">GEU Helpline</string>
+    <string name="home">Home</string>
+    <string name="guidelines">Guidelines</string>
+    <string name="things_to_do">Things to do</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="uttarakhand_helpline_numbers_for_coronavirus">Uttarakhand helpline numbers for corona Virus</string>
+    <string name="here_the_emergency_numbers_are_given_for_all_the_districts_for_uttarakhand">Here the emergency numbers are given for all the districts for uttarakhand.</string>
+    <string name="graphic_era_university">Graphic Era University</string>
+    <string name="geu_no">9412325798</string>
+    <string name="city">City</string>
+    <string name="cmo">CMO :</string>
+    <string name="control_room">Control Room :</string>
+    <string name="about">About</string>
+    <string name="todo">TODO</string>
+    <string name="submit_your_details">Submit Your Details</string>
+    <string name="name_of_the_donor">Name of the Donor :</string>
+    <string name="name">Name</string>
+    <string name="pan_of_donor">PAN of Donor :</string>
+    <string name="pan">PAN</string>
+    <string name="phone_number">Phone Number :</string>
+    <string name="number_10_digits">Number (10 Digits)</string>
+    <string name="e_mail">E-mail :</string>
+    <string name="email_address">Email Address</string>
+    <string name="address">Address :</string>
+    <string name="house_no_street_name_amp_village_colony"><![CDATA[House no/Street name & Village/Colony]]></string>
+    <string name="state">State</string>
+    <string name="district">District</string>
+    <string name="amount_of_donation">Amount of Donation :</string>
+    <string name="amount">Amount</string>
+    <string name="mode_of_payment">Mode of Payment :</string>
+    <string name="online_transfer">Online transfer</string>
+    <string name="cheque_dd_pay_order_to_be_drawn_in_favour_of_graphic_era_educational_society">Cheque/DD/Pay order (to be drawn in favour of \'Graphic Era Educational Society\')</string>
+    <string name="cash_not_more_than_rs_2_000">Cash (not more than Rs.2,000)</string>
+    <string name="payment_reference_no">Payment reference no :</string>
+    <string name="utr_no_cheque_dd_pay_order_no_date_and_bank">(UTR no. / cheque / DD / pay order no. date and bank)</string>
+    <string name="purpose_of_donation">Purpose of Donation :</string>
+    <string name="submit">Submit</string>
+    <string name="about_">ABOUT</string>
+    <string name="department_of_computer_science_and_engineering">Department of Computer Science and Engineering</string>
+    <string name="graphic_era_university_dehradun">Graphic Era University, Dehradun</string>
+    <string name="developed_by_sidhant_bidaliya_n_b_tech_cse_4th_semester">Developed By - Sidhant Bidaliya\n B.Tech CSE, 4th Semester</string>
+    <string name="sidd_bidaliya2000_gmail_com">sidd.bidaliya2000@gmail.com</string>
+    <string name="graphic_era_helping_society_in_coronavirus_pandemic">Graphic Era helping society in CoronaVirus Pandemic</string>
+    <string name="you_can_donate_to_graphic_era_university_for_combating_coronavirus_pandemic">You can donate to Graphic Era University for combating CoronaVirus Pandemic.</string>
+    <string name="donations_will_be_eligible_for_deduction_under_section_80g_receipts_will_be_issued_to_registered_email_don_t_forget_to_fill_the_form">Donations will be eligible for deduction under Section 80G. Receipts will be issued to registered email. Don\'t forget to fill the form.</string>
+    <string name="qr_code">QR Code</string>
+    <string name="you_can_also_share_your_donation_details_via_whatsapp_91_7456803478">You can also share your donation details via WhatsApp +91–7456803478</string>
+    <string name="donate_now">Donate Now</string>
+    <string name="how_it_spreads">HOW IT SPREADS</string>
+    <string name="prevention">PREVENTION</string>
+    <string name="designed_by_n_ngraphic_era_university">Designed by\n\nGRAPHIC ERA UNIVERSITY</string>
+    <string name="covid_19_helpline">Covid-19 Helpline</string>
+    <string name="contact_us">Contact Us</string>
+</resources>
